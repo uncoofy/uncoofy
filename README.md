@@ -1,16 +1,13 @@
-## Hi there 👋
+### just uncoofy, writing code 👋
 
-<!--
-**uncoofy/uncoofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Thailand.
 
-Here are some ideas to get you started:
+- shipping small and often
+- usually building small tools nobody asked for
+- happier in a terminal than in an IDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncoofy&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=uncoofy&hide_border=true&theme=nightowl" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Docker-ff7b72?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Terraform-ff7b72?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Linux-ff7b72?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/GitHub%20Actions-ff7b72?style=for-the-badge&logoColor=white" alt="GitHub Actions" />
